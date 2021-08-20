@@ -67,6 +67,7 @@
         android:layout_height="wrap_content"
         android:backgroundTint="#AC8FDD"
         android:fontFamily="sans-serif-medium"
+        android:onClick="sendMessage"
         android:text="Full Name?"
         android:textColor="#000000"
         android:textSize="24sp"
